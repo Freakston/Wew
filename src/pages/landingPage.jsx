@@ -6,9 +6,10 @@ import facebook from '../assets/facebook.png'
 import linkedin from '../assets/linkedin.png'
 import instagram from '../assets/instagram.png'
 
-function LandingPage(props) {
+function LandingPage() {
     return (
         <>
+            <div className="border">
             <div className="container bg-color-blue-dark">
                 <header className="header">
                     <a href="https://bi0s.in/" className="header__logo-1"><img src={bios_logo} alt="Bi0s Icon" className="header__image-1" /></a>
@@ -25,8 +26,11 @@ function LandingPage(props) {
                     <p className="content__timer">00:00:00</p>
                     <a href="/" className="content__button">Enter</a>
                     <a href="/" className="content__rules">Rules and Details</a>
+                    <div className="space"></div>
+                    <iframe className="widget" src="https://discord.com/widget?id=528857690764607498&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                 </section>
-                <iframe className="widget" src="https://discord.com/widget?id=528857690764607498&theme=dark" width="350" height="350" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+        
+                </div>
             </div>
         </>
     );
