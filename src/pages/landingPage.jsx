@@ -5,6 +5,7 @@ import twitter from '../assets/twitter.png'
 import facebook from '../assets/facebook.png'
 import linkedin from '../assets/linkedin.png'
 import instagram from '../assets/instagram.png'
+import Countdown from 'react-countdown';
 
 function LandingPage() {
     return (
@@ -23,7 +24,7 @@ function LandingPage() {
                 </header>
                 <section className="content">
                     <p className="content__heading">The 5th edition of INCTF International</p>
-                    <p className="content__timer">00:00:00</p>
+                    <Countdown className="content__timer" date={1628589394000}></Countdown>
                     <a href="/" className="content__button">Enter</a>
                     <a href="/" className="content__rules">Rules and Details</a>
                     <div className="space"></div>
