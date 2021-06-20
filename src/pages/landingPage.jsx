@@ -16,10 +16,10 @@ function LandingPage() {
                     <a href="https://bi0s.in/" className="header__logo-1"><img src={bios_logo} alt="Bi0s Icon" className="header__image-1" /></a>
                     <a href="https://inctf.in/" className="header__logo-2"><img src={inctf} alt="Amrita InCTF Icon" className="header__image-2" /></a>
                     <div className="header__media">
-                        <img src={twitter} alt="Twitter Icon" className="header__media-image translate-right" />
-                        <img src={facebook} alt="Facebook Icon" className="header__media-image translate-left" />
-                        <img src={linkedin} alt="LinkedIn Icon" className="header__media-image" />
-                        <img src={instagram} alt="Instagram Icon" className="header__media-image" />
+                        <a href="https://twitter.com/teambi0s"><img src={twitter} alt="Twitter Icon" className="header__media-image translate-right" /></a>
+                        <a href="https://www.facebook.com/teambi0s/"><img src={facebook} alt="Facebook Icon" className="header__media-image translate-left" /></a>
+                        <a href="https://www.linkedin.com/company/teambi0s/"><img src={linkedin} alt="LinkedIn Icon" className="header__media-image" /></a>
+                        <a href="https://www.instagram.com/teambi0s"><img src={instagram} alt="Instagram Icon" className="header__media-image" /></a>
                     </div>
                 </header>
                 <section className="content">
