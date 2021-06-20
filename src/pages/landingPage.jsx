@@ -30,7 +30,7 @@ function LandingPage() {
                     <div className="space"></div>
                     
                 </section>
-                <iframe className="widget" src="https://discord.com/widget?id=528857690764607498&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                <iframe className="widget" src="https://discord.com/widget?id=807569626292289556&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                 </div>
             </div>
         </>
