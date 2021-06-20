@@ -144,7 +144,7 @@ body {
 
 .widget {
   position: absolute;
-  bottom: -17rem;
-  left: 114rem;
+  bottom: 3rem;
+  right: 5rem;
   width: 35rem;
   height: 35rem; }

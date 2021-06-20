@@ -3,11 +3,12 @@
 .border{
     padding: 2rem 2rem;
     background-color: #274858;
+    
    
 }
 
 .container{
-    position: relative;  
+    position: relative; 
     padding: 2.5rem 2.6rem;
     background-image: url("assets/stars.png");
     height: 100vh;
@@ -104,8 +105,8 @@
 
 .widget{
     position: absolute;
-    bottom: -15rem;
-    left: 113rem;
+    bottom: 3rem;
+    right: 5rem;
     width: 35rem;
     height: 35rem;
 }
