@@ -24,9 +24,9 @@ function LandingPage() {
                 </header>
                 <section className="content">
                     <p className="content__heading">The 5th edition of INCTF International</p>
-                    <Countdown className="content__timer" date={1628589394000}></Countdown>
+                    <Countdown className="content__timer" date={1628861400000}></Countdown>
                     <a href="/" className="content__button">Enter</a>
-                    <a href="/" className="content__rules">Rules and Details</a>
+                    <a href="https://discord.gg/2EqHAMnTx2" className="content__rules">Discord Server</a>
                     <div className="space"></div>
                     
                 </section>
