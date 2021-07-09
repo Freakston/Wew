@@ -15,7 +15,7 @@ function LandingPage() {
             <div className="container bg-color-blue-dark">
                 <header className="header">
                     <a href="https://bi0s.in/" className="header__logo-1"><img src={bios_logo} alt="Bi0s Icon" className="header__image-1" /></a>
-                    <a href="https://inctf.in/" className="header__logo-2"><img src={inctf} alt="Amrita InCTF Icon" className="header__image-2" /></a>
+                    <a className="header__logo-2"><img src={inctf} alt="Amrita InCTFi Icon" className="header__image-2" /></a>
                     <div className="header__media">
                         <a href="https://twitter.com/teambi0s"><img src={twitter} alt="Twitter Icon" className="header__media-image translate-right" /></a>
                         <a href="https://www.facebook.com/teambi0s/"><img src={facebook} alt="Facebook Icon" className="header__media-image translate-left" /></a>
@@ -24,7 +24,7 @@ function LandingPage() {
                     </div>
                 </header>
                 <section className="content">
-                    <p className="content__heading">The 5th edition of INCTF International</p>
+                    <p className="content__heading">The 5th edition of InCTF International</p>
                     <Countdown className="content__timer" date={1628861400000}></Countdown>
                     <a href="/" className="content__button">Enter</a>
                     <a href="https://discord.gg/CZCYZNqC4B" className="content__rules">Discord Server</a>
