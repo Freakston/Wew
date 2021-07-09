@@ -5,6 +5,7 @@ import twitter from '../assets/twitter.png'
 import facebook from '../assets/facebook.png'
 import linkedin from '../assets/linkedin.png'
 import instagram from '../assets/instagram.png'
+import GCP_logo from '../assets/GCP.png'
 import Countdown from 'react-countdown';
 
 function LandingPage() {
@@ -28,7 +29,6 @@ function LandingPage() {
                     <a href="/" className="content__button">Enter</a>
                     <a href="https://discord.gg/2EqHAMnTx2" className="content__rules">Discord Server</a>
                     <div className="space"></div>
-                    
                 </section>
                 <iframe className="widget" src="https://discord.com/widget?id=807569626292289556&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                 </div>
