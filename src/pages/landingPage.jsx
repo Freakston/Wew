@@ -27,10 +27,14 @@ function LandingPage() {
                     <p className="content__heading">The 5th edition of INCTF International</p>
                     <Countdown className="content__timer" date={1628861400000}></Countdown>
                     <a href="/" className="content__button">Enter</a>
-                    <a href="https://discord.gg/2EqHAMnTx2" className="content__rules">Discord Server</a>
+                    <a href="https://discord.gg/CZCYZNqC4B" className="content__rules">Discord Server</a>
                     <div className="space"></div>
                 </section>
-                <iframe className="widget" src="https://discord.com/widget?id=807569626292289556&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                <p className="gcp_txt">{'\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0'}Infrastructure sponsored by</p>
+                <div className="crop">
+                    <img src={GCP_logo} alt="GCP" />
+                </div>
+                <iframe className="widget" src="https://discord.com/widget?id=862962550169665568&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
                 </div>
             </div>
         </>
