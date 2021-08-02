@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e67f2e4f.chunk.css",
-    "main.js": "/static/js/main.547363a4.chunk.js",
-    "main.js.map": "/static/js/main.547363a4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d08d8636.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d08d8636.js.map",
-    "static/js/2.9491899d.chunk.js": "/static/js/2.9491899d.chunk.js",
-    "static/js/2.9491899d.chunk.js.map": "/static/js/2.9491899d.chunk.js.map",
-    "static/js/3.acac13a8.chunk.js": "/static/js/3.acac13a8.chunk.js",
-    "static/js/3.acac13a8.chunk.js.map": "/static/js/3.acac13a8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e67f2e4f.chunk.css.map": "/static/css/main.e67f2e4f.chunk.css.map",
-    "static/js/2.9491899d.chunk.js.LICENSE.txt": "/static/js/2.9491899d.chunk.js.LICENSE.txt",
-    "static/media/GCP.1985723b.png": "/static/media/GCP.1985723b.png",
-    "static/media/inctf.5affe719.png": "/static/media/inctf.5affe719.png",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
-    "static/media/App.css": "/static/media/stars1.0be679e5.png"
+    "main.css": "/Wew/static/css/main.3f6f5dd3.chunk.css",
+    "main.js": "/Wew/static/js/main.547363a4.chunk.js",
+    "main.js.map": "/Wew/static/js/main.547363a4.chunk.js.map",
+    "runtime-main.js": "/Wew/static/js/runtime-main.0ee7513d.js",
+    "runtime-main.js.map": "/Wew/static/js/runtime-main.0ee7513d.js.map",
+    "static/js/2.9491899d.chunk.js": "/Wew/static/js/2.9491899d.chunk.js",
+    "static/js/2.9491899d.chunk.js.map": "/Wew/static/js/2.9491899d.chunk.js.map",
+    "static/js/3.acac13a8.chunk.js": "/Wew/static/js/3.acac13a8.chunk.js",
+    "static/js/3.acac13a8.chunk.js.map": "/Wew/static/js/3.acac13a8.chunk.js.map",
+    "index.html": "/Wew/index.html",
+    "static/css/main.3f6f5dd3.chunk.css.map": "/Wew/static/css/main.3f6f5dd3.chunk.css.map",
+    "static/js/2.9491899d.chunk.js.LICENSE.txt": "/Wew/static/js/2.9491899d.chunk.js.LICENSE.txt",
+    "static/media/GCP.1985723b.png": "/Wew/static/media/GCP.1985723b.png",
+    "static/media/inctf.5affe719.png": "/Wew/static/media/inctf.5affe719.png",
+    "static/media/logo.6ce24c58.svg": "/Wew/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/Wew/static/media/stars1.0be679e5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d08d8636.js",
+    "static/js/runtime-main.0ee7513d.js",
     "static/js/2.9491899d.chunk.js",
-    "static/css/main.e67f2e4f.chunk.css",
+    "static/css/main.3f6f5dd3.chunk.css",
     "static/js/main.547363a4.chunk.js"
   ]
 }
