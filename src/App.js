@@ -1,13 +1,13 @@
-import React from 'react';
+import logo from './logo.svg';
 import './App.css';
-import {LandingPage} from "./pages/index";
-import { Switch,Route } from 'react-router';
+import Nav from './page/Navbar'
 
 function App() {
   return (
-    <Switch>
-      <Route path="/"><LandingPage /></Route>
-    </Switch>
+    <div class="p-5" style={{"background-color":"#274858"}}>
+    <div className="App">
+        <Nav/>
+    </div></div>
   );
 }
 
