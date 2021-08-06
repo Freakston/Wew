@@ -47,7 +47,7 @@ const Navbar = () => {
         <br />
         <br />
         <br />
-        <a href="https://ctf.inctf.in/" className="px-10 py-5 bg-yellow-500 text-2xl rounded-full font-bold">
+        <a href="/" className="px-10 py-5 bg-yellow-500 text-2xl rounded-full font-bold">
           Enter
         </a>
         <br />
